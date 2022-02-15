@@ -10,8 +10,6 @@ I	=> ISP => Interface Segregation Principle
 
 D	=> DIP => Dependency Inversion Principle
 
-Este projeto tem como intenção demonstrar a violação de cada um dos princípios bem como utilizar os mesmos para a solução e demonstrar como o SOLID pode lhe proporcionar um melhor design de código facilitando a manutenção e o teste.
-
 #  TDD
 
 “Test-driven development” refers to a style of programming in which three activities are tightly interwoven: coding, testing (in the form of writing unit tests) and design (in the form of refactoring).
